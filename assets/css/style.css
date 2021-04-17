@@ -1,0 +1,273 @@
+img {
+  width: 11px;
+  height: 21px;
+  flex-grow: 0;
+  margin: 11px 36px 3px 0;
+  object-fit: contain;
+}
+
+#H2{
+  width: 1440px;
+  height: 1023px;
+  padding: 0 0 27px;
+  
+}
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#menu-h{
+    background-color: #f3f3f3;
+    border: none;
+    height: 191px;
+}
+
+#menu-h h1{
+  margin: 75px 100px 50px 0px;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  color: #3f3f3f;
+  display: inline-block;
+
+}
+
+#img-na{
+  width: 50px;
+  height: 21px;
+  flex-grow: 0;
+  margin:75px 0px 0px 90px;
+  
+}
+
+
+
+header{
+  position: absolute;
+  top: 180px;
+  left: 60px;
+  display: flex;
+  padding: 80px  56px;
+
+}
+
+.Seja-bem-vindoa-4events-Em-poucos-minutos-vo .text-style-1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+header article h2{
+  width: 591px;
+  height: 142px;
+  flex-grow: 0;
+  margin: 0 0 42px;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 22px;
+  font-weight: bolder;
+  line-height: 1;
+  text-align: left;
+  color: #212121;
+  text-transform: uppercase;
+}
+
+header article a{
+  height: 142px;
+  flex-grow: 0;
+  margin: 0 0 42px;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+  text-align: justify;
+  color: #212121
+}
+
+header article p{
+  width: 131px;
+  height: 24px;
+  flex-grow: 0;
+  margin: 0 219px 5px 0;
+  font-family: 'TitilliumWeb', sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  letter-spacing: 0.8px;
+  text-align: left;
+  color: #ff4f00;
+}
+
+header article input{
+  width: 300px;
+  height: 45px;
+  flex-grow: 0;
+  margin: 5px 0 0;
+  padding: 13px 83px 13px 18px;
+  border-radius: 10px;
+  box-shadow: 4px 10px 20px 0 rgba(0, 0, 0, 0.1);
+  border: solid 1px #ff4f00;
+  background-color: #ffffff;
+}
+
+header article button{
+  width: 141px;
+  height: 45px;
+  flex-grow: 0;
+  border-radius: 12px;
+  background-color: #ff4f00;
+  font-family: 'TitilliumWeb', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  border:none!important;
+  color: #fff;
+
+}
+
+header  h3{
+  width: 280px;
+  height: 24px;
+  flex-grow: 0;
+  margin: 14px 789px 3px 0;
+  font-family: 'TitilliumWeb', sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
+  text-align: left;
+  color:#666666 ;
+}
+
+
+
+#fundo-menu{
+  position: absolute;
+  top: 50%;
+  left: 570px;
+  width: 750px;
+  height: 507px;
+  object-fit: contain;
+  max-width: 700px;
+  min-width: auto;
+
+}
+
+#rod-men{
+  line-height: 1.5;
+  position: absolute;
+  right: 75px;
+  width: 26px;
+  height: 26px;
+  flex-grow: 0;
+  object-fit: contain;
+}
+
+#h1{
+  width: 202px;
+  height: 35px;
+  flex-grow: 0;
+  font-family: TitilliumWeb;
+  font-size: 38px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: #3f3f3f;
+}
+
+#menu-h ul {
+  position: absolute;
+  padding: 10.5px;
+  margin: 175px;
+  line-height: 1.5;
+  right: 75px;  
+  list-style:none;
+  background-color:rgb(255, 255, 255);
+  top: 50%;
+  width: 40em;
+  margin-top: -16em;
+  -moz-border-radius:7px;
+  -webkit-border-radius:7px; 
+  border-radius:18px;
+  
+}
+#menu-h li {
+display: inline;
+margin-left: 30px;
+float: left;
+font-size: 16px;
+font-family: 'TitilliumWeb', sans-serif;
+font-weight: bolder;
+color: #474748;
+}
+
+#im4{
+  top: 3px;
+  position: absolute;
+  right: 205px;
+  width: 162px;
+  height: 162px;
+  flex-grow: 0;
+  object-fit: contain;
+}
+
+#im10{
+  top: 0px;
+  position: absolute;
+  right: 572px;
+  width: 20px;
+  height: 20px;
+  flex-grow: 0;
+  object-fit: contain;
+}
+
+#im11{
+  top: 0px;
+  position: absolute;
+  right: 420px;
+  width: 20px;
+  height: 20px;
+  flex-grow: 0;
+  object-fit: contain;
+}
+
+#im12{
+  top: 0px;
+  position: absolute;
+  right: 495px;
+  width: 20px;
+  height: 20px;
+  flex-grow: 0;
+  object-fit: contain;
+}
+
+#im13{
+  top: 0px;
+  position: absolute;
+  right: 356px;
+  width: 20px;
+  height: 20px;
+  flex-grow: 0;
+  object-fit: contain;
+}
+
+#im14{
+  top: 0px;
+  position: absolute;
+  right: 284px;
+  width: 20px;
+  height: 20px;
+  flex-grow: 0;
+  object-fit: contain;
+}
+
+#im15{
+  top: 0px;
+  position: absolute;
+  right: 174px;
+  width: 20px;
+  height: 20px;
+  flex-grow: 0;
+  object-fit: contain;
+}
